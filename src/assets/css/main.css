@@ -1,0 +1,36 @@
+.registration {
+  background: linear-gradient(35deg, #fdcd3b 28%, green 20%, pink 90%);
+}
+.registration h4 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 60px;
+}
+.registration label {
+  font-size: 20px;
+  line-height: 20px;
+}
+.registration button {
+  background-color: lightgreen !important;
+}
+.login {
+  background: linear-gradient(35deg, #fdcd3b 28%, green 20%, pink 90%);
+}
+.login h4 {
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 60px;
+}
+.login label {
+  font-size: 20px;
+  line-height: 20px;
+}
+.login button {
+  background-color: lightgreen !important;
+}
+.home {
+  padding-bottom: 340px;
+}
+.home td {
+  /* background-color: gray; */
+}
